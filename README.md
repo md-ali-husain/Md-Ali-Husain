@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 Life Hack: Learn new tech [🔥 and share what you have learned 🎉](🔥 and share what you have learned 🎉)
+- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
 - 💬 Ask me about **portfolio-au10xoave-md-ali-husains-projects.vercel.app**
 
