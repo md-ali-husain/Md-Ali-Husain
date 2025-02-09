@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Md Ali Husain</h1>
+h1 align="center">Hi 👋, I'm Md Ali Husain</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif"
+ <img align="right" alt="coding" width="600" src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif"
 - I’m currently working on **Something Intresting.**
 
 - 🌱 I’m currently working **MERN Stack**
