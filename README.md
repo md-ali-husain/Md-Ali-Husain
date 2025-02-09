@@ -1,7 +1,7 @@
 ![logo](https://github.com/md-ali-husain/Md-Ali-Husain/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Md Ali Husain</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
- <img align="right" alt="coding" width= "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fbright-future-full-stack-developers-india-7-reasons-kunal-borkar&psig=AOvVaw1w7VE0s3lQFM2ZIIh0keyl&ust=1739227025867000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjOh93Tt4sDFQAAAAAdAAAAABAE">
+ <img align="right" alt="coding" width= "400" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ">
 - I’m currently working on **Something Intresting.**
 
 - 🌱 I’m currently working **MERN Stack**
