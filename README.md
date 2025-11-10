@@ -1,4 +1,4 @@
-![logo](https://github.com/md-ali-husain/Md-Ali-Husain/blob/main/github-header-image%20(1).png)
+https://media.licdn.com/dms/image/v2/D5616AQHGDlDob4mktw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1721306110813?e=2147483647&v=beta&t=kShV6nVOVfnsJoPyLzZnDosWWAc-D8Dgcqfu9ZyhzhY
 <h1 align="center">Hi 👋, I'm Md Ali Husain</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
  <img align="right" alt="coding" width= "500" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ">
