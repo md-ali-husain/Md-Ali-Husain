@@ -12,7 +12,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
-- 💬 Ask me about **portfolio-au10xoave-md-ali-husains-projects.vercel.app**
+- 💬 Ask me about **portfolio-https://portfolio-nu-murex-37.vercel.app/**
 
 - ⚡ Fun fact: **I waste most of my time playing games**
 
