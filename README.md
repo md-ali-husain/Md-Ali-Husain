@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Md Ali Husain</h1>
 <h3 align="center">A Passionate Mobile App & Web Developer from India</h3>
  <img align="right" alt="coding" width= "500" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ">
-- I’m currently working on **Mobile App Developer**
+ 
+About Me
 
 - 🌱 I’m currently working **Mobile App Developer**
 
